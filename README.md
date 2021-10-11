@@ -32,6 +32,8 @@
 
 https://github.com/roboticcam/machine-learning-notes
 
+国内链接：https://gitee.com/brook1711/Wireless-docs
+
 推荐博客：
 
 [(67条消息) 智能反射面| 用户多天线MIMO系统的信道估计：平行因子分解与Khatri-Rao积_B417科研笔记-CSDN博客](https://zhuyulab.blog.csdn.net/article/details/104448759)
